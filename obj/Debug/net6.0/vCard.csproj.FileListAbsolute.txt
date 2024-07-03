@@ -1,0 +1,17 @@
+C:\Users\arifb\Desktop\vCard\vCard\vCard\bin\Debug\net6.0\vCard.exe
+C:\Users\arifb\Desktop\vCard\vCard\vCard\bin\Debug\net6.0\vCard.deps.json
+C:\Users\arifb\Desktop\vCard\vCard\vCard\bin\Debug\net6.0\vCard.runtimeconfig.json
+C:\Users\arifb\Desktop\vCard\vCard\vCard\bin\Debug\net6.0\vCard.dll
+C:\Users\arifb\Desktop\vCard\vCard\vCard\bin\Debug\net6.0\vCard.pdb
+C:\Users\arifb\Desktop\vCard\vCard\vCard\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.csproj.AssemblyReference.cache
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.AssemblyInfoInputs.cache
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.AssemblyInfo.cs
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.csproj.CoreCompileInputs.cache
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.csproj.Up2Date
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.dll
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\refint\vCard.dll
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.pdb
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\vCard.genruntimeconfig.cache
+C:\Users\arifb\Desktop\vCard\vCard\vCard\obj\Debug\net6.0\ref\vCard.dll
