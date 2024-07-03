@@ -7,7 +7,8 @@ using System.IO;
 
 namespace vCard
 {
-     public class VCardSaver //salam qardaslar
+     public class VCardSaver //salam qardaslar 
+        //Aleykum salam
     {
         public void SaveToFile(VCard vcard, string directory)
         {
